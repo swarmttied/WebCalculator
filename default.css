@@ -1,0 +1,11 @@
+﻿body {
+    background-color: hsl(255, 100%, 50%);
+}
+
+input {
+    width: 446;
+    height: 35px;
+    text-align: right;
+    padding: 10px;
+    border: inset;
+}
